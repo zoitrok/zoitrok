@@ -11,7 +11,7 @@
   - Personal projects in Python, Node.js & React
   - Demoscene productions across 40+ years of platforms: Lua, C, C++, ObjC, 6502/68k assembly, OpenGL, GLSL
 - 📻 Licensed radio amateur
-  - Can you believe that they let me transmit at 1.5kW unsupervised?
+  - Can you believe that they let me broadcast at 1.5kW unsupervised?
 
 ---
 
