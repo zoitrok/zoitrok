@@ -9,7 +9,7 @@
   - Backend, SQL, custom metal and AWS at scale
 - 💡 Always tinkering: 
   - Personal projects in Python, Node.js & React
-  - Demoscene productions across 40+ years of platforms: Lua, C, C++, ObjC, 6502/68k assembly, OpenGL, GLSL
+  - Demoscene productions across 40+ years of platforms: Lua, C, C++, ObjC, 6502/68k assembly, OpenGL, GLSL. Winner of the 64k intro compo at Assembly 2007
 - 📻 Licensed radio amateur
   - Can you believe that they let me broadcast at 1.5kW unsupervised?
 
